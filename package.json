@@ -1,6 +1,7 @@
 {
   "name": "minicode-next-app",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
